@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+  <head>
+    <script
+      type="text/javascript"
+      src="https://platform.linkedin.com/badges/js/profile.js"
+      async
+      defer
+    ></script>
+  </head>
+  <body>
+    <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="janhvichitnis"><a class="LI-simple-link" href='https://www.linkedin.com/in/janhvichitnis?trk=profile-badge'>Janhvi Chitnis</a></div>
+  </body>
+</html>
