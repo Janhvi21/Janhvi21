@@ -1,24 +1,27 @@
-### Hi there 👋 I am Janhvi Chitnis!   
+### Hi there 👋 I am Janhvi Chitnis! 
+<br/>
 <img align="right" width="200" height="200" style="border-radius:50%" src="https://raw.githubusercontent.com/Janhvi21/Janhvi21/main/My_Emoji.jpg"></img>
-<p>Pursuing a Master's in Computer Science from the University of North Carolina at Charlotte. Interested in Full-Stack Development. Have worked on the end-to-end development lifecycle from requirement gathering, development to testing, debugging, and final delivery along with the generation of documents like runbook and System Design Descriptions.</p>
+<p>I am Computer Science Graduate Student at the University of North Carolina at Charlotte.I am interested in Full-Stack Development. Have worked on the end-to-end development lifecycle from requirement gathering, development to testing, debugging, and final delivery along with the generation of documents like runbook and System Design Descriptions.
+</p>
+
+
+<br/>
+<br/>
+<br/>
+
+
+![Janhvi's Github Stats](https://github-readme-stats.vercel.app/api?username=janhvi21&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvi21&hide=TeX&layout=compact&theme=default)
+
+
+
+
+
+
 
 
 <!--
-**Janhvi21/Janhvi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-![Janhvi's Github Stats](https://github-readme-stats.vercel.app/api?username=janhvi21&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvi21&hide=TeX&layout=compact)
 
 
