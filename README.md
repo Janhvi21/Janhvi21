@@ -1,5 +1,8 @@
-### Hi there 👋
-👋 I am Janhvi Chitnis!
+### Hi there 👋 I am Janhvi Chitnis!   
+<img align="right" width="200" height="200" style="border-radius:50%" src="https://raw.githubusercontent.com/Janhvi21/Janhvi21/main/My_Emoji.jpg"></img>
+<p>Pursuing a Master's in Computer Science from the University of North Carolina at Charlotte. Interested in Full-Stack Development. Have worked on the end-to-end development lifecycle from requirement gathering, development to testing, debugging, and final delivery along with the generation of documents like runbook and System Design Descriptions.</p>
+
+
 <!--
 **Janhvi21/Janhvi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="200" height="200" style="border-radius:50%" src="https://raw.githubusercontent.com/Janhvi21/Janhvi21/main/My_Emoji.jpg"></img>
 ![Janhvi's Github Stats](https://github-readme-stats.vercel.app/api?username=janhvi21&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvi21&hide=TeX&layout=compact)
 
