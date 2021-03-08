@@ -1,11 +1,13 @@
-### Hi there 👋 I am Janhvi Chitnis! 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Janhvi Chitnis! 
 <br/>
 <img align="right" width="200" height="200" style="border-radius:50%" src="https://raw.githubusercontent.com/Janhvi21/Janhvi21/main/My_Emoji.jpg"></img>
-<p>I am Computer Science Graduate Student at the University of North Carolina at Charlotte.I am interested in Full-Stack Development. Have worked on the end-to-end development lifecycle from requirement gathering, development to testing, debugging, and final delivery along with the generation of documents like runbook and System Design Descriptions.
+<p>I am Computer Science Graduate Student at the University of North Carolina at Charlotte. 
 </p>
-
-
+<p>I love coding and learning new technologies. 
+</p>
 <br/>
+<p>Technologies and Languages that I use:</p>
+
 <br/>
 <br/>
 
