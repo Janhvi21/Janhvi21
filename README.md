@@ -5,7 +5,7 @@
 </p>
 <p>I love coding and learning new technologies. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
-
+<br/>
 Technologies and Languages that I use:
 <br/>
 
