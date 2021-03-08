@@ -5,7 +5,7 @@
 </p>
 <p>I love coding and learning new technologies. 
 </p>
-<br/>
+
 Technologies and Languages that I use:
 <br/>
 
