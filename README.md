@@ -1,10 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Janhvi Chitnis! 
-<br/>
-<img align="right" width="200" height="200" style="border-radius:50%" src="https://raw.githubusercontent.com/Janhvi21/Janhvi21/main/My_Emoji.jpg"></img>
-<p>I am Computer Science Graduate Student at the University of North Carolina at Charlotte. 
-</p>
-<p>I love coding and learning new technologies. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
+### 👋 Hi, I'm Janhvi
+
+I'm a full-stack software engineer with experience building scalable web applications using **Angular**, **Node.js**, **.NET**, and **Java**. I enjoy solving complex problems and bringing user-focused solutions to life — from backend APIs to polished frontends.
+
+Recently, I worked at Rocket Mortgage, where I contributed to modernizing legacy systems, implementing CI/CD pipelines, and integrating cloud-native architectures. I'm currently open to **remote or Austin-based roles**, especially with **product-focused companies** where I can grow, collaborate, and build meaningful tech.
+
+📌 **Current Focus:**  
+- Job hunting | Open to new software engineering opportunities  
+- Improving system design and AI integration skills  
+- Building clean, maintainable code  
+
 <br/>
 Technologies and Languages that I use:
 <br/>
