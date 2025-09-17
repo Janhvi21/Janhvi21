@@ -31,7 +31,7 @@ Technologies and Languages that I use:
 <br/>
 <br/>
 
-![Janhvi's Github Stats](https://github-readme-stats.vercel.app/api?username=janhvi21&count_private=true&show_icons=true&include_all_commits=true)
+<!--Fix this ![Janhvi's Github Stats](https://github-readme-stats.vercel.app/api?username=janhvi21&count_private=true&show_icons=true&include_all_commits=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvi21&hide=TeX&layout=compact&theme=default)
 
 
